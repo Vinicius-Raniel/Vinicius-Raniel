@@ -1,16 +1,14 @@
 ### Hi there 👋
+<br>
 
-<!--
-**Vinicius-Raniel/Vinicius-Raniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Vinicius Raniel, sou um programador que atualmente estou em fase de crescimento para se tornar um desenvolvedor Full-Stack.
+<br>
 
-Here are some ideas to get you started:
+Aqui vai algumas linguagens que estou ultilizando para criar projetos :point_down:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JAVA SCRIPT
+- REACT
