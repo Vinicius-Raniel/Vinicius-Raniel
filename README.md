@@ -11,4 +11,4 @@ Aqui vai algumas linguagens que estou ultilizando para criar projetos :point_dow
 - HTML
 - CSS
 - JAVA SCRIPT
-- REACT
+
