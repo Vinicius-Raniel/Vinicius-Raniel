@@ -14,6 +14,8 @@ Aqui vai algumas linguagens que estou ultilizando para criar projetos :point_dow
 - CSS
 - JAVA SCRIPT
 - GIT & GITHUB
-- Node.JS
+- Node.JS : Express
+- MongoDB
+  
   
 
